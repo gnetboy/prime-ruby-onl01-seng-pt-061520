@@ -1,5 +1,4 @@
 # Add  code here!
-def prime?(collection)
-  pri=2
-  collection.select {|num| num % pri==0}
+def prime?(numbers)
+  (2..(num-1).each{|num| return false if num % pri==0}
 end
